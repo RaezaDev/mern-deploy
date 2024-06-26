@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# Frontend dependencies (if separate)
+client/node_modules/
